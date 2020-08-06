@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Kelly.
 
-<!--
-**kellyvaughn/kellyvaughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an entrepreneur, developer, podcast co-host x2, and author.
 
-Here are some ideas to get you started:
+### Websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Personal site](https://kvlly.com)
+- [The Taproom](https://thetaproom.com) (Shopify Plus agency)
+
+### Things I make
+
+- [Merch store](https://shopkvlly.com)
+- [Start Freelancing Today](https://startfreelancing.today) (eBook)
+- [Freelance Community](https://patreon.com/startfreelancingtoday) (Patreon)
+
+### Find me
+
+- [Twitter](https://twitter.com/kvlly)
+- [Instagram](https://instagram.com/kvlly)
+- [Email](kelly@hey.com)
