@@ -11,7 +11,6 @@ I'm an entrepreneur, developer, podcast co-host x2, and author.
 
 - [Merch store](https://shopkvlly.com)
 - [Start Freelancing Today](https://startfreelancing.today) (eBook)
-- [Freelance Community](https://patreon.com/startfreelancingtoday) (Patreon)
 - Spaghetti 🍝
 
 ### Find me
