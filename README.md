@@ -9,7 +9,7 @@ I'm an entrepreneur, developer, podcast co-host x2, and author.
 
 ### Things I make
 
-- [Merch store](https://shopkvlly.com)
+- [Merch store](https://moderngeek.co)
 - [Start Freelancing Today](https://startfreelancing.today) (eBook)
 - Spaghetti 🍝
 
