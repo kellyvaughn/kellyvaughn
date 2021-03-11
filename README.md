@@ -9,12 +9,13 @@ I'm an entrepreneur, developer, podcast co-host x2, and author.
 
 ### Things I make
 
-- [Merch store](https://moderngeek.co)
 - [Start Freelancing Today](https://startfreelancing.today) (eBook)
+- [Newsletter](https://newsletter.thetaproom.com/subscribe)
 - Spaghetti 🍝
 
 ### Find me
 
 - [Twitter](https://twitter.com/kvlly)
 - [Instagram](https://instagram.com/kvlly)
+- [LinkedIn](https://linkedin.com/in/kellyvaughn)
 - [Email](kelly@hey.com)
