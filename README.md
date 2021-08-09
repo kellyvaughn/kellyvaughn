@@ -10,7 +10,7 @@ I'm an entrepreneur, developer, podcast co-host x2, and author.
 ### Things I make
 
 - [Start Freelancing Today](https://startfreelancing.today) (eBook)
-- [Newsletter](https://newsletter.thetaproom.com/subscribe)
+- [Newsletter](https://yourfriendsguide.com)
 - Spaghetti 🍝
 
 ### Find me
@@ -18,4 +18,4 @@ I'm an entrepreneur, developer, podcast co-host x2, and author.
 - [Twitter](https://twitter.com/kvlly)
 - [Instagram](https://instagram.com/kvlly)
 - [LinkedIn](https://linkedin.com/in/kellyvaughn)
-- [Email](kelly@hey.com)
+- [Email](hello@kvlly.com)
