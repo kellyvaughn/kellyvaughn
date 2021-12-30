@@ -5,6 +5,7 @@ I'm an entrepreneur, developer, podcast co-host x2, and author.
 ### Websites
 
 - [Personal site](https://kvlly.com)
+- [Govalo](https://govalo.com) (Digital gifting startup)
 - [The Taproom](https://thetaproom.com) (Shopify Plus agency)
 
 ### Things I make
